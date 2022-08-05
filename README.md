@@ -9,7 +9,7 @@ Few Screenshots:
 
 ## Install
 ```
-git clone https://github.com/chainflag/ctfd-neon-theme.git CTFd-path/CTFd/themes/neon
+git clone https://github.com/HalbornAcademy/ctfd-neon-theme.git CTFd-path/CTFd/themes/neon
 ```
 
 ## Usage
